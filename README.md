@@ -1,11 +1,12 @@
-# Airline-Passenger-Forecasting-MLP
-## Objective:
-The main objective of this project is to detect fraudulent transactions using a Random Forest Classifier. The implementation involves data preprocessing, feature selection, model training with hyperparameter tuning, and performance evaluation using metrics like ROC curve analysis and confusion matrix.
+# Airline Passenger Forecasting with  Artificial Neural Network (ANN)
 
-## How the code works:
-Please refer to the attached 'Project Description' PDF for details.
+## Objective:
+The main objective of this project is to understand how to address time series problems using an Artificial Neural Network (ANN).
+
+## How the Code Works:
+Simply follow the steps in the code, and you will gain a clear understanding of how it operates.
 
 ## How to Run the Code:
-- First, download the dataset from Kaggle using this [link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
-- After downloading, update the dataset path in the 'FraudTransactionDetection_RFclassifier.ipynb' code.
-- This project uses external libraries such as scikit-learn, pandas, and NumPy. Please ensure these libraries are installed before running the code.
+- This project requires external libraries such as TensorFlow, scikit-learn, pandas, and NumPy. Please ensure these libraries are installed before running the code.
+
+
